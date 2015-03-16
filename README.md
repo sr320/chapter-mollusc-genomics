@@ -1,1 +1,1 @@
-# chapter-mollusc-genomicsd
+# chapter-mollusc-genomics
