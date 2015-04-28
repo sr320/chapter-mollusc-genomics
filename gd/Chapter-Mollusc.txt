@@ -1,0 +1,114 @@
+﻿Genomics in Aquaculture
+Chapter title: Mollusc
+
+
+Chapter length: approx. 30-35 pages (word count 9-11K double spaced Arial 11)
+
+
+Description of sections (section content and length is a suggestion) 
+
+
+References[a]
+
+
+
+
+1. Life history/biology 1-2 pages[b]
+
+
+Molluscs represent a phylum with approximately fifty thousand species that is marked by tremendous diversity from {some small clam] to the giant squid {scientific name}. Taxonomic classes include bivalves, scaphopods, gastropods, cephalopods, polyplacophorans, aplacophorans, and monoplacophorans. {something about evolutionary relation?} Despite this diversity there are some key characters of this group are an epithelial derived mantle that can secrete shell(s) or spicules, a foot that develops from body wall muscles, and a radula, a feeding structure that has is not present in bivalves. In this chapter we will focus on those molluscs that make up a significant component on the global aquaculture market which correspondingly possess genomic resources. Specifically we be examining genomic resources and how these resources our understanding of fundamental physiological process in bivalves, cephalopods, and gastropods. In the remainder of this section we will provide biological and economic perspective on each group. 
+Bivalves 
+
+
+US two-thirds of marine aquaculture is molluscan shellfish such as oysters, clams, and mussels.
+
+
+
+
+
+
+
+
+        
+
+
+2. Genomes[c]: diversity, structure, organization 10 pages
+
+
+
+
+
+
+
+
+
+
+
+
+3. Functional and applied aspects[d] (using transcriptomics, proteomics) within: 
+
+
+a) nutrition, 3-4 pages
+
+
+b[e]) health, 3-4 pages
+
+
+c) reproduction 3-4 pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Future directions[f] 5 pages
+
+
+Concluding remarks 2-3 pages
+
+
+[a]I am experimenting with ways to aggregate useful resources
+1) http://www.ncbi.nlm.nih.gov/sites/myncbi/steven.roberts.2/collections/47920383/public/
+2) 
+https://www.zotero.org/sr320/items/collectionKey/JPPXA2XQ
+3)
+[b]Taxonomy. Phylum. Number of species
+
+
+Only Bivalves? gastropods? cephalopods?others?
+evolution?
+
+
+Anything on their importance for Aquaculture?
+
+
+Evolution tons and value of production
+
+
+Systems production?
+[c]Available genomes 
+
+
+the sea hare Aplysia californica, 
+the owl limpet Lottia gigantea
+the pacific oyster Crassostrea gigas
+the pearl oyster Pinctada fucata
+
+
+Mytilus galloprovincilais in the making...
+[d]Pollution coping mechanisms?
+[e]Immune system and diseases
+
+
+Shall we describe the most important and something about pathogenesis and virulence mechanisms?
+[f]Anything on potential impact of warming and acidification?
