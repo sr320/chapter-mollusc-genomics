@@ -26,7 +26,26 @@ Bivalves such as mussels, scallops, oysters and clams make up an important secto
 
 
 
-        In considering how the role of genomics in mollusc aquaculture and how this field could improve aquaculture production of this group of organisms, it is important to consider how basic hatchery and production techniques. A majority of species that are farmed are broadcast spawners, meaning the gametes are commonly released into the water where external fertilization occurs. Larvae then develop in the water column and this process can take anywhere from (XX ) days as in XXXXX to (XXX) days which is common in xxxx. The length of time is going to be dependent on environmental conditions. During this larval period molluscs go through metamorphosis with involves a complete revision of the organ systems and body plan. In gastropods, such abalone, larvae undergo a process known as torsion when a 180 degree twisting of the nervous system and digestive system. 
+        In considering how the role of genomics in mollusc aquaculture and how this field could improve aquaculture production of this group of organisms, it is important to consider how basic hatchery and production techniques. First one must consider the general life history. A majority of species that are farmed are broadcast spawners, meaning the gametes are commonly released into the water where external fertilization occurs. 
+<<information regarding hermaphrodites, sex change etc)>>
+
+
+Larvae then develop in the water column and this process can take anywhere from (XX ) days as in XXXXX to (XXX) days which is common in xxxx. The length of time is going to be dependent on environmental conditions. During this larval period molluscs go through metamorphosis with involves a complete revision of the organ systems and body plan. In gastropods, such abalone, larvae undergo a process known as torsion when a 180 degree twisting of the nervous system and digestive system.  Once metamorphosis is complete the body plan is more similar to that of the adult form and the larvae will settle out of the water column where the might attach to a substrate (eg mussels and oysters) or have limited locomotory capabilities (eg abalone, clams, and scallops). The primary diet consist of plankton (bivalves) and macroalgae (gastropods). 
+
+
+Mollusc aquaculture is different from most finfish aquaculture in that most adults are commonly place back into open water with intensive culture practices focusing on larval rearing. Often the culture process will start with the “conditioning” of broodstock with the feeding of nutrient rich microalgae usually grown on premises. It is worth pointing out that a significant portion of mollusc aquaculture is in fact algae culture. Once selected broodstock are reproductively mature, spawning and fertilization is initiated by either manipulating environmental conditions (ie temperature) or in some cases gametes are harvested and controlled crosses carried out.  As embryos develop larvae are grown up through metamorphosis until the juveniles are of sufficient size to move out of the hatchery to either a nursery setting of open water to take advantage of the natural food supply. Adult culture technology varies and includes rope culture, cages / bags, and “planting” in the sediment. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
         
@@ -66,9 +85,12 @@ TABLE OF RESOURCES STATS
         Much of what we have learned with regard to genome activity (gene and protein expression) in aquacultured molluscs has centered around fundamental physiological processes that are critical for improving aquaculture production. In this section we will address key aspects of biology with first reviewing how genomic approaches have improved our fundamental understanding, followed by direct comparison of the genomic underpinnings of beneficial traits. Note that here we will be focusing primarily on the expressed part of the genome and not as much on genetic approaches, those that target DNA variation and manipulation. For more information on genetic approaches there are several great reviews available (eg reference reference reference). 
 
 
+
+
+
+
 Reproduction
-
-
+        As indicated above the aquaculture production cycle starts with the reproductive maturation of broodstock which will lay the foundation for the the 
         
 
 
@@ -141,9 +163,12 @@ Concluding remarks 2-3 pages
 
 
 [a]I am experimenting with ways to aggregate useful resources
-1) http://www.ncbi.nlm.nih.gov/sites/myncbi/steven.roberts.2/collections/47920383/public/
+
+
 2) 
 https://www.zotero.org/sr320/items/collectionKey/JPPXA2XQ
+
+
 3)
 [b]Taxonomy. Phylum. Number of species
 
