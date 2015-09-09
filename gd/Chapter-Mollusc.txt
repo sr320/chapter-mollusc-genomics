@@ -20,93 +20,24 @@ References
 1. Life history/biology 1-2 pages[a]
 
 
-Molluscs represent a phylum with approximately fifty thousand species that is marked by tremendous diversity from {some small clam] to the giant squid {scientific name}. Taxonomic classes include bivalves, scaphopods, gastropods, cephalopods, polyplacophorans, aplacophorans, and monoplacophorans. {something about evolutionary relation?} Despite this diversity, key characters of this group are an epithelial derived mantle that can secrete shell(s) or spicules, a foot that develops from body wall muscles, and a radula, a feeding structure that has is not present in bivalves. In this chapter we will focus on those molluscs that make up a significant component on the global aquaculture market. Molluscan aquaculture contributes a significant proportion of global aquaculture with 15 million tonnes produced in 2012 (Food And Agriculture Organization Of ...).  Specifically, we be characterizing genomic resources and describing how these resources are increasing our understanding of fundamental physiological processes. 
+Molluscs represent a phylum with approximately fifty thousand species that is marked by tremendous diversity from {some small clam] to the giant squid {scientific name}. Taxonomic classes include bivalves, scaphopods, gastropods, cephalopods, polyplacophorans, aplacophorans, and monoplacophorans. {something about evolutionary relation?} Despite this diversity, key characters of this group are an epithelial derived mantle that can secrete shell(s) or spicules, a foot that develops from body wall muscles, and a radula, a feeding structure that has is not present in bivalves. In this chapter we will focus on those molluscs that make up a significant component on the global aquaculture market. Molluscan aquaculture contributes a significant proportion of global aquaculture with 15 million tonnes produced in 2012 (Food And Agriculture Organization Of The United States and Food and Agriculture Organization of the United Nations 2014).  Specifically, we be characterizing genomic resources and describing how these resources are increasing our understanding of fundamental physiological processes. 
         In considering the role of genomics in molluscan aquaculture and how this field could improve aquaculture production of this group of organisms, it is important to consider the basic hatchery and production techniques. First one must consider the general life history. A majority of species that are farmed are broadcast spawners, meaning the gametes are commonly released into the water where external fertilization occurs. This is the case for most bivalves including mussels, scallops, oysters, and clam as well as for gastropods such as abalone. Cephalopods such as octopus are an emerging aquacultured group (Vidal et al. 2014) are quite different in this respect as internal fertilization is accomplished with a copulatory organ, often a modified arm referred to as a hectocotylus. While there are no known hermaphroditic cephalopod species (Pechenik 2010), many of the other cultured species are, including examples of protandric hermaphrodites (oysters, ie Crassostrea), simultaneous hermaphrodites (scallops, ie Argopecten), and rhythmical consecutive hermaphrodites (oysters ie Ostrea). 
-Larvae that then develop from external fertilization are consequently free-living, and remain in the water on the order of days to weeks where they undergo a metamorphosis. The length of time is going to be dependent on the taxa as well as environmental conditions. During this larval period molluscs development from an embryo to a trochophore. A velum soon appears, which is a ciliated organ go through metamorphosis with involves a complete revision of the organ systems and body plan. In gastropods, such abalone, larvae undergo a process known as torsion when a 180 degree twisting of the nervous system and digestive system.  Once metamorphosis is complete the body plan is more similar to that of the adult form and the larvae will settle out of the water column where the might attach to a substrate (eg mussels and oysters) or have limited locomotory capabilities (eg abalone, clams, and scallops). The primary diet consist of plankton (bivalves) and macroalgae (gastropods). 
-
-
-Mollusc aquaculture is different from most finfish aquaculture in that most adults are commonly place back into open water with intensive culture practices focusing on larval rearing. Often the culture process will start with the “conditioning” of broodstock with the feeding of nutrient rich microalgae usually grown on premises. It is worth pointing out that a significant portion of mollusc aquaculture is in fact algae culture. Once selected broodstock are reproductively mature, spawning and fertilization is initiated by either manipulating environmental conditions (ie temperature, food availability) or in some cases gametes are harvested and controlled crosses carried out. In some instances juveniles that have recently metamorphosed and settled, referred to as seed, are collected from the wild.  As embryos develop larvae are grown up through metamorphosis until the juveniles are of sufficient size to move out of the hatchery to either a nursery setting of open water to take advantage of the natural food supply. Adult culture technology varies and includes rope culture, cages / bags, and “planting” in the sediment. 
-
-
-
-
-
-
-<<Another aspect worth mentioning (if we need it to set up functional stuff below) is triploids?>>
-
-
-
-
+Larvae that then develop from external fertilization are consequently free-living, and remain in the water on the order of days to weeks where they undergo a metamorphosis. The length of time is going to be dependent on the taxa as well as environmental conditions. During this larval period molluscs development from an embryo to a trochophore. A velum soon appears, which is a ciliated organ used for locomotion, gas exchange, and food collection. At this point the larva is considered a veliger. In gastropods, such abalone, larvae undergo a process known as torsion when a 180 degree twisting of the nervous system and digestive system.  Once metamorphosis is complete the body plan is more similar to that of the adult form and the larvae will settle out of the water column where the might attach to a substrate (eg mussels and oysters) or have limited locomotory capabilities (eg abalone, clams, and scallops). The primary diet of these molluscs consists of plankton (bivalves) and macroalgae (gastropods). 
+Mollusc aquaculture is different from most finfish aquaculture in that most adults are commonly placed back into open water with intensive culture practices focusing on larval rearing. Often the culture process will start with the “conditioning” of broodstock with the feeding of nutrient rich microalgae usually grown on premises. It is worth pointing out that a significant portion of mollusc aquaculture is in fact algae culture. Once selected broodstock are reproductively mature, spawning and fertilization is initiated by either manipulating environmental conditions (ie temperature, food availability) or in some cases gametes are harvested and controlled crosses carried out. In some instances juveniles that have recently metamorphosed and settled, referred to as seed, are collected from the wild.  As embryos develop larvae are grown up through metamorphosis until the juveniles are of sufficient size to move out of the hatchery to either a nursery setting of open water to take advantage of the natural food supply. Adult culture technology varies and includes rope culture, cages / bags, and “planting” in the sediment. 
 
 
         
 
 
 2. Genomes[b]: diversity, structure, organization 10 pages
-        There are a handful of publicly available draft genomes and numerous transcriptomes from molluscs. With respect to mollusc that constitute a significant economic impact the in global aquaculture production, the Pacific oyster has some of the most genomic information associated. One of the first integrative resources for this species was the Sigenae online resource (citation) where publically available transcriptomic data such as expressed sequence tags (ESTs) were assemble into contigs and annotated. This resource is still available at the time of writing this chapter (link). This resourced greatly increased the rate of scientific discovery in the field of mollusc genomics including <> . A draft genome was published in 2012 for Crassostrea gigas (Zhang et al 2012; Fang et al 2012). This effort used a short-read sequencing and fosmid pooling strategy that resulted in an assembly with 559 Mb and a scaffold N50 size of 401 kb (Zhang et al 2012).  A total of 11969 scaffolds were assembled with more than 90% of the assembly covered by the longest 1670 scaffolds (Zhang et al)[c]. A total of 28,027 genes were predicted in this effort with 49 RNA-seq libraries from different developmental stages and different adult organs and 59 libraries sequenced from oysters subjected to various stressors (Zhang et al. 2012). Other general features described with the C. gigas genome include that 36% of the genome was repetitive sequence as well as evidence for active transposable elements. 
-        These oyster genome datasets were subsequently incorporated into the EnsemblMetazoa (http://metazoa.ensembl.org/) where the assembly is continually annotated. Only 7658 of the scaffolds have been used in the Ensembl platform, corresponding to 26,101 coding genes. Data can be accessed in numerous manners via the EnsemblMetazoa including via FTP (http://metazoa.ensembl.org/info/website/ftp/index.html) or using Biomar (http://metazoa.ensembl.org/biomart/martview). EnzemblMetazoa provides novel genome features compared to the source data including coordinate information for non-coding RNA and sequence repeats
-
-
-Plan for Eastern oyster (Gómez-Chiarri et al. 2015)
-. 
-        A pearl oyster (Pinctada fuctata) draft genome has also been sequenced with represents approximately 1150 Mb and 23,257 complete gene models (Takeuchi et al 2012). Over 800,000 scaffolds were assembled 629 at least 100,000 bp in length. The draft genome assembly and predicted gene products are available at http://marinegenomics.oist.jp/genomes/downloads?project_id=20. 
-        
+        There are a handful of publicly available draft genomes and numerous transcriptomes and proteomes from cultured molluscs. With respect to mollusc that constitute a significant economic role in global aquaculture production, the Pacific oyster (Crassostrea gigas) has numerous genomic resources including a draft genome. One of the first integrative resources for this species was the GigasDatabase (Fleury et al. 2009) where publically available transcriptomic data such as expressed sequence tags (ESTs) were assemble into contigs and annotated. This resource is still available at the time of writing this chapter (http://public-contigbrowser.sigenae.org:9090/Crassostrea_gigas/index.html). This resource greatly increased the rate of scientific discovery in the field of mollusc genomics. A draft genome was published in 2012 for Crassostrea gigas (Zhang et al 2012; Fang et al 2012). This effort used a short-read sequencing and fosmid pooling strategy that resulted in an assembly with 559 Mb and a scaffold N50 size of 401 kb (Zhang et al 2012).  A total of 11969 scaffolds were assembled with more than 90% of the assembly covered by the longest 1670 scaffolds (Zhang et al). A total of 28,027 genes were predicted in this effort with 49 RNA-seq libraries from different developmental stages and different adult organs and 59 libraries sequenced from oysters subjected to various stressors (Zhang et al. 2012). Other general features described with the C. gigas genome include that 36% of the genome was repetitive sequence as well as evidence for active transposable elements. These oyster genome datasets were subsequently incorporated into the EnsemblMetazoa (http://metazoa.ensembl.org/) where the assembly is continually annotated. Only 7658 of the scaffolds have been used in the Ensembl platform, corresponding to 26,101 coding genes. Data can be accessed in numerous manners via the EnsemblMetazoa including via FTP (http://metazoa.ensembl.org/info/website/ftp/index.html) or using Biomar (http://metazoa.ensembl.org/biomart/martview). EnzemblMetazoa provides novel genome features compared to the source data including coordinate information for non-coding RNA and sequence repeats.
+A pearl oyster (Pinctada fuctata) draft genome has also been sequenced with represents approximately 1150 Mb and 23,257 complete gene models (Takeuchi et al. 2012). Over 800,000 scaffolds were assembled 629 at least 100,000 bp in length. The draft genome assembly and predicted gene products are available at http://marinegenomics.oist.jp/genomes/downloads?project_id=20. 
+        To date there is yet to be a complete mollusc genome (ie chromosome organization) though there are other mollusc species with significant resources that allow for comparative analysis. These include the draft genome of the owl limpet (Lottia gigantea) (Simakov et al. 2013) and California sea hare (Aplysia californica) (https://www.broadinstitute.org/science/projects/mammals-models/vertebrates-invertebrates/aplysia/aplysia-genome-sequencing-project), both gastropods. With the ever increasing advances in DNA sequencing technology it is certain there will be a number of other draft genomes completed (undoubtedly before the publication of this chapter). For example, new genomic resources are expected Crassostrea virginica (Gómez-Chiarri, Marta, et al. 2015) and Mytilus galloprovincialis (Maria et al. 2014). As highlighted by (Gómez-Chiarri, Marta, et al. 2015) there are several challenges to proper and complete assembly of these genomes including the highly polymorphic nature and high percentage of repetitive elements. These features are likely associated with the life history characteristics of marine bivalves, a predominantly cultured mollusc.
 
 
 
 
-
-
-
-
-TABLE OF RESOURCES STATS   
-
-
-This could include genomes, transcriptomes and ??? of aquacultured mollluscs AND related taxa (particularly in terms of genomes)  see also (Gómez-Chiarri et al. 2015) for list of disease proces omic resources..
-
-
-
-
-Specie    genome   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3. Functional and applied aspects[d] (using transcriptomics, proteomics) within: 
+3. Functional and applied aspects (using transcriptomics, proteomics) within: 
 
 
         Much of what we have learned with regard to genome activity (gene and protein expression) in aquacultured molluscs has centered around fundamental physiological processes that are critical for improving aquaculture production. In this section we will address key aspects of biology with first reviewing how genomic approaches have improved our fundamental understanding, followed by direct comparison of the genomic underpinnings of beneficial traits. Note that here we will be focusing primarily on the expressed part of the genome and not as much on genetic approaches, those that target DNA variation and manipulation. For more information on genetic approaches there are several great reviews available (eg reference reference reference). 
@@ -114,42 +45,11 @@ Specie    genome
 
 
 
-
-
 Reproduction
-        As indicated above the aquaculture production cycle starts with the reproductive maturation of broodstock which will lay the foundation for larval production and adult grow-out. From functional genomics perspective, there has been deserved attention towards understanding fundamental processes associated with reproductive maturation and spawning. 
+        As indicated above the aquaculture production cycle starts with the reproductive maturation of broodstock which will lay the foundation for larval production and subsequent adult harvest. From functional genomics perspective, there has been deserved attention towards understanding processes associated with reproductive maturation and spawning. Having a better understanding reproductive biology has the potential and promise to increase efficiency and output. While there have been numerous efforts targeting candidate gene function during reproduction, one example of a global approach to examining gametogenesis in an aquaculture relevant species was Dhielly and colleagues (2012) (Dheilly et al. 2012) study using a microarray platform in Crassostrea gigas. This oligonucleotide microarray was composed of 31,918 expressed sequence tags (ESTs) (Dheilly et al. 2011).  In comparing males and females Dhielly et al identified 77 genes that were sex specific, which could have practical application in identifying broodstock. For example, there are several aquacultured mollusc where sexual dimorphism is lacking. Gene or possibly protein expression could be used to distinguish sexes as well as developmental status. More recently there have been numerous studies that examine reproductive genes other molluscs ( ie (Teaniniuraitemoana et al. 2015; Teaniniuraitemoana et al. 2014; de Sousa et al. 2014; Valenzuela-Muñoz et al. 2014). 
+        Taken together we now have a more complete understanding gametogenesis in commercially important. Primordial germ cells are the cells which development into gonadal tissue. The establishment of the germline varies across taxa with a general difference of iether b
 
 
-While there have been numerous efforts targeting candidate gene function during reproduction, one of the first global approach to examining gametogenesis in an aquaculture relevant species was Dhielly and colleagues (2012) (Dheilly et al. 2012) study using a microarray platform in Crassostrea gigas. This oligonucleotide microarray was composed of 31,918 expressed sequence tags (ESTs) (Dheilly et al. 2011).  In comparing males and females Dhielly et al identified 77 genes that were sex specific[e] , which could have practical application in identifying broodstock. 
-
-
-More recently there have been numerous studies that examine reproductive genes ( ie (Teaniniuraitemoana et al. 2015; Teaniniuraitemoana et al. 2014; de Sousa et al. 2014)
-
-
-
-
-
-
-
-
-
-
-
-
-oocyte quality 
-A microarray-based analysis of oocyte quality in the European clam Ruditapes decussatus
-
-
-
-
-
-
-
-
-Sterility and triploids---   as described this 
-
-
-(Dheilly et al. 2014)
 
 
 
@@ -157,7 +57,7 @@ Sterility and triploids---   as described this
 
 
 Metamorphosis
-        Larval development and accompanying metamorphosis from a planktonic form into a sessile adult form involves a complete change in body plan. This time is one of the most critical in aquaculture production given the fragile larval state, nutritional requirements, and energy demands of metamorhosis  
+        Larval development and accompanying metamorphosis from a planktonic form into a sessile adult form involves a complete change in body plan. This time is one of the most critical in aquaculture production given the fragile larval state, nutritional requirements, and energy demands of metamorphosis  
 
 
 
@@ -170,7 +70,7 @@ Metamorphosis
 
 Growth and Nutrition
         Like any agriculture product, growth is an important factor that considered in terms of reaching market size with minimum expenditure of resources. There are numerous aspects with regard to factors contributing to growth with functional genomic studies provide important insight insight into underlying mechanisms.
-        In bivalves, particular Crassostrea gigas, growth heterosis is observed whereby hybrids often grow faster than respective parental lines (Pace et al. 2006).  In one of the earliest high-throughput sequencing efforts in bivalves, (Hedgecock et al. 2007) used massively parallel signature sequencing (MPSS) to examine gene expression patterns in two partially inbred and two hybrid larval populations. Previous work had shown that the hybrid oysters have higher feeding rates and feeding efficiencies than inbred oysters (Bayne et al. 1999; Pace et al. 2006) but nothing was known about underlying transcriptomic differences. (Hedgecock et al. 2007) found that approximately 1.5% genes control the phenotypes associated with oyster growth heterosis, and that protein metabolism was involved based gene annotation results. Later work (Meyer and Manahan 2010) also found protein metabolism drives growth variation in a study where using the same genetic families as (Hedgecock et al. 2007), examined 188 candidate genes. In this study, the majority of candidate genes were ribosomal proteins and the authors indicate that given the high metabolic cost of protein synthesis and degradation, inefficiencies in this process could certainly impact energy available for growth (Meyer and Manahan 2010).
+        In bivalves, particular Crassostrea gigas, growth heterosis is observed whereby hybrids often grow faster than respective parental lines (Pace et al. 2006).  In one of the earliest high-throughput sequencing efforts in bivalves, (Hedgecock et al. 2007) used massively parallel signature sequencing (MPSS) to examine gene expression patterns in two partially inbred and two hybrid larval populations. Previous work had shown that the hybrid oysters have higher feeding rates and feeding efficiencies than inbred oysters (Bayne et al. 1999, Pace et al. 2006) but nothing was known about underlying transcriptomic differences. (Hedgecock et al. 2007) found that approximately 1.5% genes control the phenotypes associated with oyster growth heterosis, and that protein metabolism was involved based gene annotation results. Later work (Meyer and Manahan 2010) also found protein metabolism drives growth variation in a study where using the same genetic families as (Hedgecock et al. 2007), examined 188 candidate genes. In this study, the majority of candidate genes were ribosomal proteins and the authors indicate that given the high metabolic cost of protein synthesis and degradation, inefficiencies in this process could certainly impact energy available for growth (Meyer and Manahan 2010).
 
 
 
@@ -186,15 +86,29 @@ a) nutrition, 3-4 pages
 
 
 
-b[f]) immune function health, 3-4 pages
+b[c]) immune function health, 3-4 pages
+
+
+        Arguably one to the biggest challenges in molluscan aquaculture is minimizing mortality in face of disease and other environmental perturbances. Functional genomics has great insight into immune system function as well as provided evidence of mechanisms contributing to broodstock performance.
+
+
+pathogenesis - virulence mechanisms
+aspects of host response
+
+
+innate immune function
+
+
+
+
+immune priming and memory?
 
 
 
 
 
 
-
-
+Comparison of disease resistant stocks..
 
 
 
@@ -293,7 +207,7 @@ Other uses for genomic resource - genotyping from RNAseq data.
 
 
 
-4. Future directions[g][h] 5 pages
+4. Future directions[d][e] 5 pages
 
 
 It is evident that molluscan aquaculture will be faced with challenges associated with an increasing human population including both feeding said population as well as persisting in a changing environment. Functional genomic research will play an important role on both of these fronts. 
@@ -323,7 +237,81 @@ There is still a considerable amount fundamental biology that we do not fully un
 
 
 
-Concluding remarks 2-3 pages
+Concluding remarks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bayne, B.L., Hedgecock, D., McGoldrick, D., and Rees, R., 1999. Feeding behaviour and metabolic efficiency contribute to growth heterosis in Pacific oysters [Crassostrea gigas (Thunberg)]. Journal of experimental marine biology and ecology, 233 (1), 115–130.
+Dheilly, N.M., Jouaux, A., Boudry, P., Favrel, P., and Lelong, C., 2014. Transcriptomic profiling of gametogenesis in triploid Pacific Oysters Crassostrea gigas: towards an understanding of partial sterility associated with triploidy. PloS one, 9 (11), e112094.
+Dheilly, N.M., Lelong, C., Huvet, A., and Favrel, P., 2011. Development of a Pacific oyster (Crassostrea gigas) 31,918-feature microarray: identification of reference genes and tissue-enriched expression patterns. BMC genomics, 12, 468.
+Dheilly, N.M., Lelong, C., Huvet, A., Kellner, K., Dubos, M.-P., Riviere, G., Boudry, P., and Favrel, P., 2012. Gametogenesis in the Pacific oyster Crassostrea gigas: a microarrays-based analysis identifies sex and stage specific genes. PloS one, 7 (5), e36353.
+Fleury, E., Huvet, A., Lelong, C., de Lorgeril, J., Boulo, V., Gueguen, Y., Bachere, E., Tanguy, A., Moraga, D., Fabioux, C., Lindeque, P., Shaw, J., Reinhardt, R., Prunet, R., Davey, G., Lapegue, S., Sauvage, C., Corporeau, C., Moal, J., Gavory, F., Wincker, P., Moreews, F., Klopp, C., Mathieu, M., Boudry, P., and Favrel, B., 2009. Generation and analysis of a 29,745 unique Expressed Sequence Tags from the Pacific oyster (Crassostrea gigas) assembled into a publicly accessible database: the GigasDatabase. BMC genomics, 10, 341.
+Food And Agriculture Organization Of The United States and Food and Agriculture Organization of the United Nations, 2014. State of the World Fisheries and Aquaculture 2014. Fao.
+Gómez-Chiarri, M., Guo, X., Tanguy, A., He, Y., and Proestou, D., 2015. The use of -omic tools in the study of disease processes in marine bivalve mollusks. Journal of invertebrate pathology.
+Gómez-Chiarri, M., Marta, G.-C., Warren, W.C., Ximing, G., and Dina, P., 2015. Developing tools for the study of molluscan immunity: The sequencing of the genome of the eastern oyster, Crassostrea virginica. Fish & shellfish immunology, 46 (1), 2–4.
+Hedgecock, D., Lin, J.-Z., DeCola, S., Haudenschild, C.D., Meyer, E., Manahan, D.T., and Bowen, B., 2007. Transcriptomic analysis of growth heterosis in larval Pacific oysters (Crassostrea gigas). Proceedings of the National Academy of Sciences of the United States of America, 104 (7), 2313–2318.
+Meyer, E. and Manahan, D.T., 2010. Gene expression profiling of genetically determined growth variation in bivalve larvae (Crassostrea gigas). The Journal of experimental biology, 213 (5), 749–758.
+Pace, D.A., Marsh, A.G., Leong, P.K., Green, A.J., Hedgecock, D., and Manahan, D.T., 2006. Physiological bases of genetically determined variation in growth of marine invertebrate larvae: A study of growth heterosis in the bivalve Crassostrea gigas. Journal of experimental marine biology and ecology, 335 (2), 188–209.
+Pechenik, J.A., 2010. Biology of the Invertebrates. McGraw-Hill Higher Education.
+De Sousa, J.T., Milan, M., Bargelloni, L., Pauletto, M., Matias, D., Joaquim, S., Matias, A.M., Quillien, V., Leitão, A., and Huvet, A., 2014. A microarray-based analysis of gametogenesis in two Portuguese populations of the European clam Ruditapes decussatus. PloS one, 9 (3), e92202.
+Teaniniuraitemoana, V., Huvet, A., Levy, P., Gaertner-Mazouni, N., Gueguen, Y., and Le Moullac, G., 2015. Molecular signatures discriminating the male and the female sexual pathways in the pearl oyster Pinctada margaritifera. PloS one, 10 (3), e0122819.
+Teaniniuraitemoana, V., Huvet, A., Levy, P., Klopp, C., Lhuillier, E., Gaertner-Mazouni, N., Gueguen, Y., and Le Moullac, G., 2014. Gonad transcriptome analysis of pearl oyster Pinctada margaritifera: identification of potential sex differentiation and sex determining genes. BMC genomics, 15, 491.
+Vidal, E.A.G., Villanueva, R., Andrade, J.P., Gleadall, I.G., Iglesias, J., Koueta, N., Rosas, C., Segawa, S., Grasse, B., Franco-Santos, R.M., Albertin, C.B., Caamal-Monsreal, C., Chimal, M.E., Edsinger-Gonzales, E., Gallardo, P., Le Pabic, C., Pascual, C., Roumbedakis, K., and Wood, J., 2014. Cephalopod culture: current status of main biological models and research priorities. Advances in marine biology, 67, 1–98.
 
 
 [a]Taxonomy. Phylum. Number of species
@@ -350,13 +338,9 @@ the pearl oyster Pinctada fucata
 
 
 Mytilus galloprovincilais in the making...
-[c]new Hedgecock paper indicates not assembled correclty
-[d]Pollution coping mechanisms?
-[e]Dheilly, Nolwenn M.; Lelong, Christophe; Huvet, Arnaud; Kellner, Kristell; Dubos, Marie-Pierre; Riviere, Guillaume; Boudry, Pierre; Favrel, Pascal (2012): Gametogenesis in the Pacific Oyster Crassostrea gigas: A Microarrays-Based Analysis Identifies Sex and Stage Specific Genes. File_S1.xls. PLOS ONE.
-10.1371/journal.pone.0036353.s001. Retrieved 14:28, May 08, 2015 (GMT).
-[f]Immune system and diseases
+[c]Immune system and diseases
 
 
 Shall we describe the most important and something about pathogenesis and virulence mechanisms?
-[g]Anything on potential impact of warming and acidification?
-[h]And epigenetics...
+[d]Anything on potential impact of warming and acidification?
+[e]And epigenetics...
