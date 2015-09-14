@@ -47,7 +47,65 @@ A pearl oyster (Pinctada fuctata) draft genome has also been sequenced with repr
 
 Reproduction
         As indicated above the aquaculture production cycle starts with the reproductive maturation of broodstock which will lay the foundation for larval production and subsequent adult harvest. From functional genomics perspective, there has been deserved attention towards understanding processes associated with reproductive maturation and spawning. Having a better understanding reproductive biology has the potential and promise to increase efficiency and output. While there have been numerous efforts targeting candidate gene function during reproduction, one example of a global approach to examining gametogenesis in an aquaculture relevant species was Dhielly and colleagues (2012) (Dheilly et al. 2012) study using a microarray platform in Crassostrea gigas. This oligonucleotide microarray was composed of 31,918 expressed sequence tags (ESTs) (Dheilly et al. 2011).  In comparing males and females Dhielly et al identified 77 genes that were sex specific, which could have practical application in identifying broodstock. For example, there are several aquacultured mollusc where sexual dimorphism is lacking. Gene or possibly protein expression could be used to distinguish sexes as well as developmental status. More recently there have been numerous studies that examine reproductive genes other molluscs ( ie (Teaniniuraitemoana et al. 2015; Teaniniuraitemoana et al. 2014; de Sousa et al. 2014; Valenzuela-Muñoz et al. 2014). 
-        Taken together we now have a more complete understanding gametogenesis in commercially important. Primordial germ cells are the cells which development into gonadal tissue. The establishment of the germline varies across taxa with a general difference of iether b
+        Taken together we now have a more complete understanding gametogenesis in commercially important. Primordial germ cells are the cells which development into gametes, which go onto to create a new individual through sexual reproduction. The establishment of the germline varies across taxa with a general difference of either being specified via inherited factors (preformation) or by inductive signals (epigenesis) (see (Extavour and Akam 2003) for review). In several molluscs it is not clear (or varies) on the origin of the germline. Using a vasa-like gene as a marker in Crasssostrea gigas, (Fabioux et al. 2004) concluded that in C. gigas that the germline is specified by maternal cytoplasmic determinants (preformation) through the 4d cell lineage and larvae possess putative PGCs. Also using vasa gene expression (Kranz et al. 2010) inferred that in the Abalone (Haliotis asinina) that PGCs are not determined completely by maternal determinants, but also by inductive signals. The germ cell eventually become sexually differentiated and enter gametogenesis. As indicated in the above section, sexual reproduction can be quite complex in this group different temporal degrees of hermaphroditism and sex change.  A recent study by (Zhang et al. 2014) used transcriptome sequencing to identify genes in sex-determining pathways. 
+
+
+
+
+manilla clam sex determ - teanin - pearl oyster
+Ghiselli,F., L. Milani,P. L. Chang,D.Hedgecock,J. P.Davis et al., 2012 De novo assembly of the manila clam ruditapes philippinarum transcriptome provides wew insights into expression bias, mitochon- drial doubly uniparental inheritance and sex determination. Mol. Biol. Evol. 
+Teaniniuraitemoana, V., A. Huvet, P. Levy, C. Klopp, E. Lhuillier et al., 2014 Gonad transcriptome analysis of pearl oyster Pinctada margari- tifera: identification of potential sex differentiation and sex determining genes.
+
+
+
+
+
+
+
+
+These gonia then go through oogenesis and spermatogenesis and ripen into mature ova and spermatozoa. Gametogenesis in many marine invertebrates, is a substantial energy demanding process as these organisms have high fecundity. Fecundity and subsequent larval survival is key concern in aquaculture as this serves as the base of production. As indicated the lability of sex in molluscs is complex (and fascinating) and functional genomic approaches are actively being used in the better understand this. As with many aspects of physiology this includes attention to how large scale environmental change might influence reproductive biology. 
+
+
+The first stage of gametogenesis (Stage 0) is the initial differentiation of primordial germ cells where the sex cannot be determined.  The next stage (Stage 1) is when germ cells undergo mitosis and a large number of gonia are produced. Stage 2 gonads contain maturing cells that depend on energy from surrounding tissues. Stage 3 gonads are considered fully mature. Using a microarray platform to study the gonadal maturation process in males (spermatogenesis) and females (oogenesis) (Dheilly et al. 2012) identified a suite of genes indicative of the respective processes. In mature male gonads, there was a number of genes involved in ubiquitination and and proteasomal degradation of ubiquitinated proteins.  In females, researchers found evidence of elevated cell cycle activity in maturing gonads and interestingly found Methyl-CpG binding domain protein 2 to be highly expressed in mature female gonads. Methyl-CpG binding domain protein 2 is involved in binding methylated DNA and thus presumably involved in gene regulatory activity. (Dheilly et al. 2012) suggested that the high expression of methyl-CpG binding domain protein indicated a epigenetic transfer of information. This process could have important implication for aquaculture production as it would indicate parental factors (ie maternal RNA) has direct impact on larval development, thus broodstock physiology is important to consider. Maternal factors are considered important for fertilization and embryonic genome activation (Li et al. 2010).  The maternal contribution is also receiving attention in the aquaculture production of teleost fish (ie (Sullivan et al. 2015)).  (Dheilly et al. 2012) also found a number of genes associated with early embryological development (ie Forkhead box Q2, Frizzled)
+
+
+Focusing on another important aquaculture species, the European clam (Ruditapes decussatus),  (de Sousa et al. 2015) used a microarray to identify potential biomarkers of oocyte quality, also using D-larval yield as a metric. From this work it was determined that chaperones molecules are main determinants of good quality oocytes and genes involved in stress response, including apoptosis, are associated with poor oocyte quality. 
+
+
+
+
+Proteomic approaches are increasingly becoming important tools to ass gamete and xx quality, particularly for species with abundant transcriptomic resources necessary for annotation. Using a 2-DE proteomic approach (Corporeau et al. 2012) identified factors indicative of oocyte quality. Specifically oocyte quality was determined by D-larva yields. In low quality oocytes, there was a higher expression of 10 proteins, including five vitellogenins proteins some of which were breakdown products. It was suggested that cleavage products could be an indication of resorbtion and or oocyte aging. In high quality oocytes, again vitellogenin was identified as well as molecular chaperones and protein involved in cell cycle control. 
+
+
+In an analogous study that set out to identify proteins associated with mature spermatozoa (Kingtong et al. 2013) used 2-DE proteomics to compare mature sperm with germ / less mature cells. Here researchers identified 31 differentially expressed proteins with mature spermatozoa having increased expression of proteins associated with flagellum, energy production, and acrosome reaction. Researchers proposed that the suite of proteins identified would be good biomarkers for spermatozoa in Pacific oysters. This use of biomarkers would be particularly useful in this species as the Pacific oyster is one organism where gonad stripping (dissection) is commonly used for direct, controlled breeding.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
